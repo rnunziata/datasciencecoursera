@@ -1,4 +1,4 @@
 DataProject
 ===========
 
-Repo for data scientist course work
+Repo for data scientist course work.
